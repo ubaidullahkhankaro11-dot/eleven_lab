@@ -33,3 +33,5 @@ A powerful Python tool for generating secure hashes.
 git clone https://github.com/ubaidullahkhankaro11-dot/eleven_lab.git
 cd eleven_lab
 python eleven_lab.py
+
+![Banner](./banner.svg)
