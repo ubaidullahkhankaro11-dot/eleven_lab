@@ -1,16 +1,6 @@
-# ELEVEN_LAB - Advanced Hash Generator
+# ELEVEN_LAB
 
-![Banner 1](./banner.svg)
-![Banner 2](./banner2.svg)
+![Banner1](banner.svg)
+![Banner2](banner2.svg)
 
-**Made with ❤️ by Ubaid Ullah from Dir Upper, Pakistan**
-
-## 🔥 Features
-- 10+ Hash Types
-- Fast & Secure
-- Termux Ready
-- Made in Dir Upper
-
-## 🚀 How to Use
-```bash
-python eleven_lab.py
+Made by Ubaid Ullah - Dir Upper
